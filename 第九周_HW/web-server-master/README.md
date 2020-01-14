@@ -18,7 +18,7 @@ github.com/urfave/negroni
 ```
 *   Trying 127.0.0.1...
 * Connected to localhost (127.0.0.1) port 7000 (#0)
-> GET /web/lg HTTP/1.1
+> GET /web/lsc HTTP/1.1
 > Host: localhost:7000
 > User-Agent: curl/7.47.0
 > Accept: */*
@@ -29,7 +29,7 @@ github.com/urfave/negroni
 < Content-Length: 19
 < 
 {
-  "-_-!": "lg"
+  "-_-!": "lsc"
 }
 * Connection #0 to host localhost left intact
 ```
